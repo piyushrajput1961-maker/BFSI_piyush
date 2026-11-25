@@ -3,6 +3,9 @@
 An AI-assisted personal finance web app built with **Flask**, **SQLAlchemy** and an AI advisory engine.
 Log income and expenses, get a personalised budget plan, track savings goals and view monthly reports.
 
+[![Demo Video](https://img.shields.io/badge/Demo_Video-Google_Drive-FF5722?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1M7ttTfcQnDVrd8PNLVBBtvRzhIiO_O7h)
+[![Project Documentation](https://img.shields.io/badge/Project_Document-Google_Drive-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/drive/folders/1M7ttTfcQnDVrd8PNLVBBtvRzhIiO_O7h)
+
 ## Features
 - User accounts with a profile type: salaried, student, freelancer or household
 - Income and categorised expense logging
